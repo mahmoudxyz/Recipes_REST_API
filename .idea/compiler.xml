@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Recipes.Recipes-task-build-classes-java.main" />
+        <module name="Recipes.Recipes-task-build-reports-tests.test" />
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Recipes-task-build-tmp.test" />
+        <module name="Recipes.Recipes-task-build-classes-java.test" />
+        <module name="Recipes.Recipes-task-build-reports-tests.main" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Recipes-task-build-tmp.main" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Recipes-task-build-test-results.main" />
+        <module name="Recipes.Recipes-task.main" />
+        <module name="Recipes.Recipes-task-build-test-results.test" />
+        <module name="Recipes.util.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Recipes.Recipes-task-build-classes-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-reports-tests.main" target="11" />
+      <module name="Recipes.Recipes-task-build-test-results.main" target="11" />
+      <module name="Recipes.Recipes-task-build-tmp.main" target="11" />
+      <module name="Recipes.Recipes-task.main" target="11" />
+      <module name="Recipes.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
